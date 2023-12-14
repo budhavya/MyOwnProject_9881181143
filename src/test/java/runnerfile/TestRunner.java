@@ -6,7 +6,7 @@ import io.cucumber.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-features="C:/Users/Shree/eclipse-workspace/MyProject/Features",
+features="C:\\Users\\Shree\\git\\repository2\\MyProject\\Features",
 glue= {"stepdefinition"},
 monochrome=true,
 plugin= {"pretty","html:target/CucumberReports/Report.html"},
