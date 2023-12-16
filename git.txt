@@ -1,6 +1,6 @@
 git config --global user.email "vickybudharam@gmail.com"
 
-git config --global user.name "budhavya"
+git config --global user.name budhavya
 
-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
+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
 
